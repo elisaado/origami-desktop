@@ -1,0 +1,15 @@
+{
+  "name": "alpha",
+  "version": "0.0.0",
+  "description": "An open-source, web-based Magiser 6 client.",
+  "main": "server.js",
+  "repository": "https://github.com/hdevnotly/alpha",
+  "author": "hdevnotly and contributors",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.1.4",
+    "express": "^4.14.0",
+    "magister.js": "^1.23.2",
+    "socket.io": "^1.7.2"
+  }
+}
