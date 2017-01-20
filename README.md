@@ -1,4 +1,4 @@
-# alpha
+# Origami
 An open-source, web-based Magiser 6 client.
 
 ## Code style
